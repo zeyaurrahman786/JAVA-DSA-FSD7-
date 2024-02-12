@@ -1,0 +1,640 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MountainHillNumberPattern",
+      "request": "launch",
+      "mainClass": "MountainHillNumberPattern",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "NumberPattern",
+      "request": "launch",
+      "mainClass": "NumberPattern",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "SwastikaPattern",
+      "request": "launch",
+      "mainClass": "SwastikaPattern",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "StudentClass",
+      "request": "launch",
+      "mainClass": "ObjectOrientedProgramming.StudentClass",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "zeyaur",
+      "request": "launch",
+      "mainClass": "ObjectOrientedProgramming.zeyaur",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "StudentClass$Student",
+      "request": "launch",
+      "mainClass": "ObjectOrientedProgramming.StudentClass$Student",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "rahman",
+      "request": "launch",
+      "mainClass": "Memory_Management.rahman",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "Ques_1",
+      "request": "launch",
+      "mainClass": "Memory_Management.HomeWork.Ques_1",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "joy",
+      "request": "launch",
+      "mainClass": "joy",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "zeyaur",
+      "request": "launch",
+      "mainClass": "zeyaur",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "Ques1",
+      "request": "launch",
+      "mainClass": "Ques1",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "Assignment",
+      "request": "launch",
+      "mainClass": "Assignment",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "HollowRightAngledTriangle",
+      "request": "launch",
+      "mainClass": "HollowRightAngledTriangle",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "HollowSquare",
+      "request": "launch",
+      "mainClass": "HollowSquare",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "MountainHillUlta",
+      "request": "launch",
+      "mainClass": "MountainHillUlta",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "StarTriangleUlta",
+      "request": "launch",
+      "mainClass": "StarTriangleUlta",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "MountainHillPattern",
+      "request": "launch",
+      "mainClass": "MountainHillPattern",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "StarTriangle",
+      "request": "launch",
+      "mainClass": "StarTriangle",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "StarSquare",
+      "request": "launch",
+      "mainClass": "StarSquare",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "ArithmeticOperator",
+      "request": "launch",
+      "mainClass": "ArithmeticOperator",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "HundredEvenNumber",
+      "request": "launch",
+      "mainClass": "HundredEvenNumber",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "Star",
+      "request": "launch",
+      "mainClass": "Star",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "ForLoop",
+      "projectName": "JAVA+DSA (FSD7)_d8e8b71c"
+    },
+    {
+      "type": "java",
+      "name": "Star2",
+      "request": "launch",
+      "mainClass": "For_Loop.Star2",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Star",
+      "request": "launch",
+      "mainClass": "For_Loop.Star",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "function",
+      "request": "launch",
+      "mainClass": "function",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "ForLoop",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "AsciiValue",
+      "request": "launch",
+      "mainClass": "For_Loop.AsciiValue",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "For_Loop.ForLoop",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "input1",
+      "request": "launch",
+      "mainClass": "input1",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "inputt",
+      "request": "launch",
+      "mainClass": "Memory_Management.inputt",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Memory_Management.Test",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "input1",
+      "request": "launch",
+      "mainClass": "Memory_Management.input1",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Input",
+      "request": "launch",
+      "mainClass": "Memory_Management.StaticAndNonStaticMethods.Input",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "input",
+      "request": "launch",
+      "mainClass": "Memory_Management.input",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "input1",
+      "request": "launch",
+      "mainClass": "Memory_Management.StaticAndNonStaticMethods.input1",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "newinput",
+      "request": "launch",
+      "mainClass": "Memory_Management.StaticAndNonStaticMethods.newinput",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Memory_Management.StaticAndNonStaticMethods.Test",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Memory_Management.HomeWork.Test",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Object2",
+      "request": "launch",
+      "mainClass": "Memory_Management.HomeWork.Object2",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Bhopal",
+      "request": "launch",
+      "mainClass": "Memory_Management.HomeWork.Bhopal",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Mp_Nagar",
+      "request": "launch",
+      "mainClass": "Memory_Management.HomeWork.Mp_Nagar",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "MpNagar",
+      "request": "launch",
+      "mainClass": "Memory_Management.HomeWork.MpNagar",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Input",
+      "request": "launch",
+      "mainClass": "Memory_Management.Input",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Cricket",
+      "request": "launch",
+      "mainClass": "Memory_Management.HomeWork.Cricket",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Ques_3",
+      "request": "launch",
+      "mainClass": "Memory_Management.HomeWork.Ques_3",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Ques_2",
+      "request": "launch",
+      "mainClass": "Memory_Management.HomeWork.Ques_2",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Ques_1",
+      "request": "launch",
+      "mainClass": "Memory_Management.HomeWork.Ques_1",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "ObjectPractice",
+      "request": "launch",
+      "mainClass": "Memory_Management.ObjectPractice",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Ct",
+      "request": "launch",
+      "mainClass": "Memory_Management.Ct",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "NewStatic",
+      "request": "launch",
+      "mainClass": "Memory_Management.NewStatic",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Static3",
+      "request": "launch",
+      "mainClass": "Memory_Management.Static3",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Static2",
+      "request": "launch",
+      "mainClass": "Memory_Management.Static2",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Static1",
+      "request": "launch",
+      "mainClass": "Memory_Management.Static1",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Static",
+      "request": "launch",
+      "mainClass": "Memory_Management.Static",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "Q2",
+      "request": "launch",
+      "mainClass": "Memory_Management.Q2",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "NonStaticMethod",
+      "request": "launch",
+      "mainClass": "Memory_Management.NonStaticMethod",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "StaticFunction",
+      "request": "launch",
+      "mainClass": "Memory_Management.StaticFunction",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "function",
+      "request": "launch",
+      "mainClass": "Memory_Management.function",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "AreaOfSquare",
+      "request": "launch",
+      "mainClass": "Memory_Management.AreaOfSquare",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "joy",
+      "request": "launch",
+      "mainClass": "Memory_Management.joy",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q20",
+      "request": "launch",
+      "mainClass": "q20",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q19",
+      "request": "launch",
+      "mainClass": "q19",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q18",
+      "request": "launch",
+      "mainClass": "q18",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q17",
+      "request": "launch",
+      "mainClass": "q17",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q16",
+      "request": "launch",
+      "mainClass": "q16",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q15",
+      "request": "launch",
+      "mainClass": "q15",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q14",
+      "request": "launch",
+      "mainClass": "q14",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q13",
+      "request": "launch",
+      "mainClass": "q13",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q12",
+      "request": "launch",
+      "mainClass": "q12",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q11",
+      "request": "launch",
+      "mainClass": "q11",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q9",
+      "request": "launch",
+      "mainClass": "q9",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q10",
+      "request": "launch",
+      "mainClass": "q10",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q8",
+      "request": "launch",
+      "mainClass": "q8",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q7",
+      "request": "launch",
+      "mainClass": "q7",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q5",
+      "request": "launch",
+      "mainClass": "q5",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q6",
+      "request": "launch",
+      "mainClass": "q6",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q4",
+      "request": "launch",
+      "mainClass": "q4",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "q3",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "q2",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "q1",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q4",
+      "request": "launch",
+      "mainClass": "Control.q4",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "Control.q1",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "Control.q2",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "Control.q3",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "ControlStatements.q3",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "ControlStatements.q2",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "ControlStatements.q1",
+      "projectName": "Placement Oriented Batch - JAVA + DSA + FSD_c51f423f"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
